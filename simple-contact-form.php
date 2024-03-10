@@ -55,7 +55,6 @@ class SimpleContactForm {
     public function load_assets(){
         wp_enqueue_style('simple-contact-form', plugin_dir_url(__FILE__) . 'css/simple-contact-form.css', array(), 1, 'all');
         wp_enqueue_style('simple-contact-form-bootstrap', plugin_dir_url(__FILE__) . 'css/bootstrap.min.css', array(), 1, 'all');
-        wp_enqueue_script('simple-contact-form', plugin_dir_url(__FILE__) . 'js/simple-contact-form.js', array('jquery'), 1, true);
 
         // Localize the script with new data
         $ajax_object = array(
