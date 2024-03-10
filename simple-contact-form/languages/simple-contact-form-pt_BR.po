@@ -1,0 +1,109 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Contact Form Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-03-10 20:16-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple-contact-form.php:39
+msgctxt "post type general name"
+msgid "Contact Form Submissions"
+msgstr "Entradas de Contato"
+
+#: simple-contact-form.php:40
+msgctxt "post type singular name"
+msgid "Contact Form Submission"
+msgstr "Entrada de Contato"
+
+#: simple-contact-form.php:77
+msgid "Name"
+msgstr "Nome"
+
+#: simple-contact-form.php:83
+msgid "Email address"
+msgstr "Endereço de Email"
+
+#: simple-contact-form.php:89
+msgid "Phone"
+msgstr "Telefone"
+
+#: simple-contact-form.php:95
+msgid "Message"
+msgstr "Mensagem"
+
+#: simple-contact-form.php:102
+msgid "Submit"
+msgstr "Enviar"
+
+#: simple-contact-form.php:124
+msgid "CAPTCHA: What is"
+msgstr "CAPTCHA: Quanto é"
+
+#: simple-contact-form.php:231
+msgid "Validation failed, captcha wrong!"
+msgstr "Validação falhou, captcha errado!"
+
+#: simple-contact-form.php:242
+msgid "Name: Please enter at least 3 characters."
+msgstr "Nome: Por favor, no mínimo 3 caracteres."
+
+#: simple-contact-form.php:244
+msgid "Name: Maximum length is 20 characters."
+msgstr "Nome: Máximo de 20 caracteres."
+
+#: simple-contact-form.php:246
+msgid "Name: Only characters are allowed (no digits or special characters)."
+msgstr "Nome: Somente caracteres permitidos (sem números ou caracteres especiais)."
+
+#: simple-contact-form.php:250
+msgid "Email: Please enter email."
+msgstr "Email: Por favor, seu email."
+
+#: simple-contact-form.php:252
+msgid "Email: Enter a valid email address."
+msgstr "Email: escreva um endereço de email válido."
+
+#: simple-contact-form.php:258
+msgid "Phone: Please enter a 10-digit mobile number without a country code."
+msgstr "Telefone: Por favor, entre com um número de 10 dígitos."
+
+#: simple-contact-form.php:264
+msgid "Message: Please enter your message."
+msgstr "Mensagem: Por favor, escreva sua mensagem."
+
+#: simple-contact-form.php:269
+msgid "Validation failed"
+msgstr "Validação falhou"
+
+#: simple-contact-form.php:274 simple-contact-form.php:301
+#, php-format
+msgid "Name: %s<br>Email: %s<br>Phone: %s<br>Message: %s"
+msgstr "Nome: %s<br>Email: %s<br>Telefone: %s<br>Mensagem: %s"
+
+#: simple-contact-form.php:296
+msgid "New Contact Form Submission"
+msgstr "Nova Entrada de Contato"
+
+#: simple-contact-form.php:313
+msgid "Form submitted successfully"
+msgstr "Formulário enviado com sucesso"
+
+#: simple-contact-form.php:315
+msgid "Error submitting form"
+msgstr "Erro ao enviar formulário"

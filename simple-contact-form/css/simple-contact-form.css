@@ -1,0 +1,14 @@
+#error-message {
+    background-color: #ffcccc; /* Light red for error message */
+    color: #cc0000;
+}
+
+#success-message {
+    background-color: #ccffcc; /* Light green for success message */
+    color: #008000;
+}
+
+#captcha-message{
+    background-color: #ffcccc; /* Light red for error message */
+    color: #cc0000;
+}
